@@ -1,0 +1,22 @@
+{
+	"name": "vuelidate-brazilian-validations",
+	"version": "1.0.0",
+	"description": "\uD83C\uDF43 A useful and lightweight repository with Brazilian validations to use with Vuelidate.",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ejetar/js-utils.git"
+	},
+	"keywords": [
+		"vuelidate",
+		"validation",
+		"br",
+		"pr-br",
+		"brasil",
+		"brazil",
+		"vue",
+		"cpf",
+		"cnpj"
+	],
+	"author": "",
+	"license": "MIT"
+}
