@@ -1,10 +1,10 @@
 {
-	"name": "@ejetar/js-utils",
+	"name": "js-utils-br",
 	"version": "1.0.0",
 	"description": "\uD83C\uDF43 A useful and lightweight repository with Brazilian validations to use with Vuelidate.",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ejetar/js-utils.git"
+		"url": "git+https://github.com/ejetar/js-utils-br.git"
 	},
 	"keywords": [
 		"vuelidate",
