@@ -1,5 +1,5 @@
 {
-	"name": "vuelidate-brazilian-validations",
+	"name": "@ejetar/js-utils",
 	"version": "1.0.0",
 	"description": "\uD83C\uDF43 A useful and lightweight repository with Brazilian validations to use with Vuelidate.",
 	"repository": {
@@ -17,6 +17,9 @@
 		"cpf",
 		"cnpj"
 	],
-	"author": "",
+	"author": {
+		"name": "Guilherme Almeira Girardi",
+		"email": "guilhermeagirardi@gmail.com"
+	},
 	"license": "MIT"
 }
